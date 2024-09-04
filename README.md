@@ -426,7 +426,7 @@ GROUP BY 1, 2
 ORDER BY 1, 2;
 ```
 
-### Q.14 Rider Ratings Analysis: 
+### 14. Rider Ratings Analysis: 
 -- Find the number of 5-star, 4-star, and 3-star ratings each rider has.
 -- riders receive this rating based on delivery time.
 -- If orders are delivered less than 15 minutes of order received time the rider get 5 star rating,
@@ -470,7 +470,7 @@ GROUP BY 1, 2
 ORDER BY 1, 3 DESC;
 ```
 
-### 15. Q.15 Order Frequency by Day: 
+### 15. Order Frequency by Day: 
 -- Analyze order frequency per day of the week and identify the peak day for each restaurant.
 
 ```sql
