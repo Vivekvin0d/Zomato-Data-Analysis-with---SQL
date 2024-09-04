@@ -11,7 +11,7 @@ This project demonstrates my SQL problem-solving skills through the analysis of 
 - **Data Cleaning:** Handling null values and ensuring data integrity.
 - **Business Problems:** Solving 20 specific business problems using SQL queries.
 
-![ERD](Screenshots/Screenshot 2024-09-03 214000.png)
+<img src="Images and screenshots/Screenshot 2024-08-29 152330 (2).png" alt="Power bi dashboard" width="100%" height="500" />
 
 ## Database Setup
 ```sql
